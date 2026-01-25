@@ -84,7 +84,17 @@ if __name__ == "__main__":
     response = ask_ai(prompt)
     print(response)
 
+    # Example 5: Food  preparation
 
+    print("-" * 70)
+    print("\n Data Generation")
+    print("-" * 70)
+
+    prompt = """
+    How to prepare delicious food  Upma using veggies  
+    """
+    response = ask_ai(prompt)
+    print(response)
 
 
 
