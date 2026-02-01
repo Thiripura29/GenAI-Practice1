@@ -893,5 +893,8 @@ def main():
         print("Please verify your OPENAI_API_KEY is set correctly in .env file")
 
 
-if __name__ == "__main__":
-    main()
+
+
+
+
+
